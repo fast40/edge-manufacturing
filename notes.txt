@@ -1,0 +1,43 @@
+CAD management for edge manufacturing is important.
+
+
+People who experience broken parts often don't have a clue about CAD/manufacturing etc.
+- our solution should be very easy to use for this reason.
+
+
+Broken part -> OUR SOLUTION -> new manufactured replacement
+
+our solution needs to both manage CAD and manage manufacturing execution.
+
+- manage CAD
+	- eli + ryan
+	- as quickly as possible get from broken part to part ID
+- manufacturing execution
+	- sean
+	- as quickly as possible from CAD to part
+
+
+- for specific part group and manufacturing technique.
+	- 3d printing
+	- work on parts which are easily distunguishable and good candidates for 3d printing
+	- parts which break often
+
+
+if the part is broken, how to id it?
+
+part id not written on part
+computer vision to go from part to ID (this is hard for similar parts. May want to incorporate other part attributes into search, e.g. vehicle name etc.)
+
+smart way of catalogging parts
+
+- engine part from X vehicle etc.
+
+
+
+
+
+
+--- tool ---
+Website where
+- it's super easy for manufacturers to dump all field-manufacturable CAD files
+- it's super easy for people to search for the machine where the part came from and locate CAD of broken part
